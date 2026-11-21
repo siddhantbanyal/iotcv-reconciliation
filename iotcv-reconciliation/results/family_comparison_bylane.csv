@@ -1,0 +1,7 @@
+lane,family,precision,recall,f1,false_flag_rate,time_to_flag
+weight,heuristic,0.9828,1.0,0.9913,0.0172,5.72
+weight,sequential,0.982,1.0,0.9909,0.018,5.2333
+location,heuristic,0.9227,1.0,0.9598,0.0773,8.7117
+location,sequential,0.8229,1.0,0.9028,0.1771,12.1767
+dwell,heuristic,1.0,0.9748,0.9865,0.0,37.52
+dwell,sequential,1.0,0.9748,0.9865,0.0,36.8159

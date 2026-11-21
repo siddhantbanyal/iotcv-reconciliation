@@ -1,0 +1,2 @@
+pre_precision,pre_false_alert_rate,post_precision,post_false_alert_rate,false_alert_fold_reduction,cv_accuracy,cv_fp_correction
+0.9379630308780025,0.06203696912199752,0.9978478991198179,0.0021521008801821395,28.82623658271406,0.92,0.97
