@@ -1,0 +1,12 @@
+# Core simulation + evaluation. Deliberately lightweight (no heavy ML, no scipy).
+numpy>=1.24
+pandas>=2.0
+pyyaml>=6.0
+
+# Plotting is optional. plots.py degrades gracefully if matplotlib is absent
+# (it always writes plot-ready CSVs; it renders PNGs only when matplotlib exists).
+matplotlib>=3.7  # optional
+
+# Testing: the test suite uses the stdlib `unittest` and needs no third-party
+# runner. It is also pytest-compatible if you prefer `pytest tests/`.
+# pytest>=7.0  # optional
