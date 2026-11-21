@@ -1,8 +1,0 @@
-# Location-lane focus: zone-mismatch + ghost-move via BLE/UWB asset tags.
-# Inherits default.yaml; emphasizes location drift, de-emphasizes weight/dwell.
-lane: location
-events:
-  p_misplace: 0.04        # more misplaced pallets
-  p_ghost_move: 0.03      # more unlogged relocations
-  p_shrink: 0.004
-  p_missed_putaway: 0.0

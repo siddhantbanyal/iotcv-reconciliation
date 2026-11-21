@@ -1,3 +1,0 @@
-family,precision,recall,f1,false_flag_rate,time_to_flag,flags_per_tick
-heuristic,0.9321,0.9981,0.964,0.0679,24.3956,4.252
-sequential,0.938,0.9981,0.9671,0.062,37.1276,4.2336
